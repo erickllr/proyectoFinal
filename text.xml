@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntas>
+    <pregunta>
+        <pta>1. ¿Cuántos huesos tiene un adulto en el cuerpo humano?</pta>
+        <rpta ok="0">200</rpta>
+        <rpta ok="1">206</rpta>
+        <rpta ok="0">224</rpta>
+        <rpta ok="0">219</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>2. ¿Cuándo acabó la II Guerra Mundial?</pta>
+        <rpta ok="0">En 1948</rpta>
+        <rpta ok="0">En 1942</rpta>
+        <rpta ok="1">En 1945</rpta>
+        <rpta ok="0">En 1949</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>3.¿Quién pintó “La Última Cena”?</pta>
+        <rpta ok="0">Donatello</rpta>
+        <rpta ok="1">Leonardo DaVinci</rpta>
+        <rpta ok="0">Miguel Ángel</rpta>
+        <rpta ok="0">Pablo Picasso</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>4. ¿Cuál es el océano más grande del mundo?</pta>
+        <rpta ok="0">El Océano Pacífico</rpta>
+        <rpta ok="0">El Océano Atlántico</rpta>
+        <rpta ok="1">El Océano Índico</rpta>
+        <rpta ok="0">El Océano Ártico</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>5. ¿Cuál es el país más grande del mundo?</pta>
+        <rpta ok="1">Rusia</rpta>
+        <rpta ok="0">China</rpta>
+        <rpta ok="0">Brasil</rpta>
+        <rpta ok="0">Sudáfrica</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>6. ¿Cuál es el libro más vendido de la historia?</pta>
+        <rpta ok="0">Don Quijote de la Mancha</rpta>
+        <rpta ok="0">Historia de dos ciudades</rpta>
+        <rpta ok="0">El Señor de los Anillos</rpta>
+        <rpta ok="1">La Biblia</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>7. ¿Cómo se llama el proceso por el cual las plantas se alimentan?</pta>
+        <rpta ok="1">Fotosíntesis</rpta>
+        <rpta ok="0">Reproducción plantal</rpta>
+        <rpta ok="0">Oxigenación</rpta>
+        <rpta ok="0">Nutrición</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>8. ¿Cuántos elementos hay en la Tabla Periódica?</pta>
+        <rpta ok="0">116 elementos</rpta>
+        <rpta ok="0">124 elementos</rpta>
+        <rpta ok="0">106 elementos</rpta>
+        <rpta ok="1">118 elementos</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>9. ¿Quién inventó la bombilla?</pta>
+        <rpta ok="0">Albert Einstein</rpta>
+        <rpta ok="0">Benjamin Franklin</rpta>
+        <rpta ok="1">Thomas Edison</rpta>
+        <rpta ok="0">Martin Luther King</rpta>
+    </pregunta>
+    <pregunta>
+        <pta>10. ¿Qué planeta es el que se encuentra más cercano al Sol?</pta>
+        <rpta ok="0">Plutón</rpta>
+        <rpta ok="1">Mercurio</rpta>
+        <rpta ok="0">Saturno</rpta>
+        <rpta ok="0">Júpiter</rpta>
+    </pregunta>
+</preguntas>
